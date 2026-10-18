@@ -1,0 +1,6 @@
+{
+  "name": "lantern-road",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node tools/bot.mjs", "start": "python serve.py" }
+}
